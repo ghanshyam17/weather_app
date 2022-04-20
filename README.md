@@ -1,5 +1,7 @@
 # weather_app
-Final project of Semester three
+Final project of 3304 course in third semester
+
+Angular weather application
 
 URL of Github repository:
 https://github.com/ghanshyam17/weather_app/tree/master/src/app
