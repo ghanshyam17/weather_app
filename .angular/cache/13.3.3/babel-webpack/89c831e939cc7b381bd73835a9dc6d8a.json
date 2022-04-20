@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Coord {}\nexport class Weather {}\nexport class Main {}\nexport class Wind {}\nexport class Clouds {}\nexport class Sys {}\nexport class WeatherMain {}","map":null,"metadata":{},"sourceType":"module"}
